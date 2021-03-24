@@ -1,2 +1,2 @@
 # YTDownloader
-Multi Threaded youtube downloader
+Multi Threaded youtube mp3 downloader
